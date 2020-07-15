@@ -1,20 +1,20 @@
 # Site settings
-title: CS3100 Fall 2019
-subtitle: Paradigms of Programming
-baseurl: "/cs3100_f19" # the subpath of your site, e.g. /blog/
-url: "http://kayceesrk.github.io" # the base hostname & protocol for your site
-syllabus: "http://www.cse.iitm.ac.in/course_details.php?arg=MTk="
-githubdir: "kayceesrk/cs3100_f19"
+title: CS Grad Seminar Fall 2020
+subtitle: Distributed Systems Verification
+baseurl: "/cs_f20" # the subpath of your site, e.g. /blog/
+url: "http://gowthamk.github.io" # the base hostname & protocol for your site
+syllabus: ""
+githubdir: "gowthamk/cs_f20"
 
 # Author/user information
-email: kcsrk@iitm.ac.in
-twitter_username: kc_srk
-github_username:  kayceesrk
-authorurl: "http://kcsrk.info"
+email: gowtham.kaki@colorado.edu
+twitter_username: gowthamk
+github_username:  gowthamk
+authorurl: "https://gowthamk.github.io"
 address: |
-    Department of Computer Science and Engineering
-    BSB 371, Indian Institute of Technology, Madras
-    Chennai, India 600036
+    Department of Computer Science,
+    University of Colorado,
+    Boulder, CO 80309
 
 # Build settings
 markdown: kramdown

@@ -237,6 +237,12 @@ td{
     padding: 10px;
 }
 
-tr:nth-child(even){
+tr.lecture:nth-child(even){
 		background: #dae5f4;
 }
+
+tr.module {
+  text-align:center;
+  background: #f4dcda;
+}
+

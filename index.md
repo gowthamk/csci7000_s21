@@ -8,40 +8,45 @@ layout: default
 
 </div>
 
-{% include image.html url="/cs3100_f19/_images/paradigms.png"
-   href="https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf"
-   caption="Don't worry. We will only cover a small subset of this." width=800 align="center" %}
+> A distributed system is one in which the failure of a computer you
+> didn’t even know existed can render your own computer unusable.
+-- Leslie Lamport, 1987.
 
-The aim of the course is to teach you about the different paradigms of
-programming, their underlying concepts, and the relationships between them. We
-will mostly look at functional and logic programming, touching upon imperative
-programming concepts as we go through the course. We will study functional
-paradigm through [OCaml](https://ocaml.org/) and logic paradigm through Prolog
-(specifically [SWI-Prolog](https://www.swi-prolog.org/)). The official course
-description is [here](http://www.cse.iitm.ac.in/course_details.php?arg=MTk=).
+Distributed systems are the workhorses of modern day computing.
+Applications ranging from home automation systems to e-commerce,
+payment gateways, and cryptocurrencies all rely on distributed systems
+to meet their computational needs and scale to millions of users
+across the planet. Unfortunately though, the ubiquity of distributed
+computing hasn't resulted in a proportional decrease in the complexity
+of distributed programming; building reliable and scalable distributed
+systems/applications remains hard despite decades of progress in this
+direction. In this seminar course, we shall review the fundamental
+challenges inherent in building provably-correct distributed
+systems, discuss recent advances addressing or circumventing the
+challenges, and explore ways to extend the state-of-the-art in
+Distributed Program Verification.
 
-The course will be primarily taught through interactive [Jupyter
-Notebooks](https://jupyter.org/). The instructions for setting up the notebooks
-is found [here](https://github.com/kayceesrk/cs3100_f19#running-the-jupyter-notebooks).
+As conveyed by the title, our emphasis in this course will be on the
+specification and verification of distributed systems and
+applications. Formal verification often invokes unfortunate connations
+of impracticality. We shall try to avoid this pitfall in this course
+by prioritizing the study of theories, techniques, and systems with
+strong practical implications. The course is **research-oriented**
+meaning that it will be dominated by student-led discussions on
+research papers and industry tech reports. It will be **hands-on**
+meaning that there will be programming assignments (most likely in TLA+
+and PlusCal) and a course project (to be proposed independently by
+each student). To set a common ground for subsequent research
+discussions, I will review the fundamental concepts of Distributed
+Systems and Program Verification in the first few lectures. The
+schedule can be found here.
 
 ## Essential Details
 
-* **Instructor:** [KC Sivaramakrishnan](http://kcsrk.info), who goes by "KC".
-* **Where:** CS34
-* **When:** C Slot: M 10:00 to 10:50, T 09:00 to 09:50, W 08:00 to 08:50, F
-  13:00 to 13:50. See [detailed schedule]({{site.baseurl}}/schedule).
-* **Office Hours**: Any time [I'm free](http://kcsrk.info/calendar).
-* **TAs:** 
-
-| Name | Email | 
-|------|-------|
-| Shashank Shekhar Dubey | shashank.shekhardubey@gmail.com |
-| Atul Dhiman | CS18M014@smail.iitm.ac.in |
-| Diptanshu Kakwani | CS18S019@smail.iitm.ac.in |
-| Padhiyar Sumit Kishorkumar | CS18S042@smail.iitm.ac.in |
-
-<br>
-Liaise with the TAs over email about where to meet. 
+* **Instructor:** [Gowtham Kaki](http://gowthamk.github.io).
+* **Where:** TBD
+* **When:** TBD
+* **Office Hours**: By appointment
 
 ## Grading
 
