@@ -29,13 +29,17 @@ progresses.
   <tr class="lecture">
     <td class="tg-baqh">2</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">Coordinate Attack (Two Generals) Problem<br>Byzantine Generals Problem<br>FLP Impossibility<br></td>
+    <td class="tg-0lax">Asynchronous Model of a Distributed System <br>
+                        Failure Modes<br>
+                        Time - Ordering of events, Vector Clocks</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr class="lecture">
     <td class="tg-baqh">3</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">FLP Impossiblity (contd.)<br>CAP Theorem<br>Time - Ordering of events, Vector clocks.<br></td>
+    <td class="tg-0lax"> Coordinated Attack (Two Generals) Problem<br>
+                         FLP Impossibility<br>
+                         CAP Theorem</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr class="module">
@@ -69,7 +73,8 @@ progresses.
   <tr class="lecture">
     <td class="tg-baqh">8</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">BFT Consensus</td>
+    <td class="tg-0lax"> Byzantine Generals Problem <br>
+                         BFT Consensus</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr class="module">
@@ -147,7 +152,7 @@ progresses.
   <tr class="lecture">
     <td class="tg-baqh">19</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">Ethreum White and Yellow Papers</td>
+    <td class="tg-0lax">Ethereum White and Yellow Papers</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr class="lecture">
