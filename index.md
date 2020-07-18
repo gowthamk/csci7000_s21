@@ -50,7 +50,7 @@ schedule can be found here.
 
 ## Grading
 
-| Item         | Due      | Weightage (%) |
+<!-- | Item         | Due      | Weightage (%) |
 |--------------|----------|--------------:|
 | Assignment 1 | 19/08/19 | 5.0           |
 | Assignment 2 | 03/09/19 | 5.0           |
@@ -60,14 +60,14 @@ schedule can be found here.
 | Quiz 2       | 16/10/19 | 15.0          |
 | Assignment 5 | 30/10/19 | 5.0           |
 | Assignment 6 | 11/11/19 | 5.0           |
-| End Sem      | 19/11/19 | 40.0          |
+| End Sem      | 19/11/19 | 40.0          | -->
 
-<br/> 
+TBD
 
 ## Acknowledgements
 
 The course borrows some of the materials from
 
-* [Cornell: cs3110](http://www.cs.cornell.edu/courses/cs3110/2019sp/)
-* [University of Cambridge Computer Laboratory: Prolog](https://www.cl.cam.ac.uk/teaching/1819/Prolog/)
-* [University of Cambridge Computer Laboratory: Advanced Functional Programming](https://www.cl.cam.ac.uk/teaching/1718/L28/)
+* [Cornell: CS 6410](http://www.cs.cornell.edu/courses/cs6410/2016fa/)
+* [University at Buffalo (SUNY): CS586](https://cse.buffalo.edu/~demirbas/CSE586.html)
+* [UC Santa Cruz: CSE138](http://composition.al/CSE138-2020-03/index.html)

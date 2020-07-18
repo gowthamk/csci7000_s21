@@ -237,6 +237,22 @@ td{
     padding: 10px;
 }
 
+th.seqno {
+  width:2%;
+}
+
+th.date{
+  width: 8%;
+}
+
+th.topic {
+  width: 35%;
+}
+
+th.reading {
+  width: 55%;
+}
+
 tr.lecture:nth-child(even){
 		background: #dae5f4;
 }
@@ -246,3 +262,6 @@ tr.module {
   background: #f4dcda;
 }
 
+table#schedule {
+  font-size:13px;
+}
