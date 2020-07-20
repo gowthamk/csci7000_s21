@@ -4,8 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-The below schedule is tentative and subject to change as semester
-progresses.
+Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtham Kaki), while the rest are student-led paper discussions. Lecture slides will be posted after each lecture.  
 
 <table id="schedule">
 <thead>
@@ -241,20 +240,25 @@ progresses.
   <tr class="lecture">
     <td class="tg-baqh">23</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">VeriSol (Wang et al, Arxiv)</td>
+    <td class="tg-0lax">
+      1. Bonneau et al, <a href="https://eprint.iacr.org/2020/352.pdf">Coda: Decentralized Cryptocurrency at Scale</a>, 2018.<br>
+      2. Meckler, <a href="https://codaprotocol.com/blog/snarky-a-high-level-language-for-verifiable-computation">Snarky: A High-Level Language for Verifiable Computation</a>, 2018.
+    </td>
     <td class="tg-0lax"></td>
   </tr>
   <tr class="lecture">
     <td class="tg-baqh">24</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">CODA and Snarky</td>
+    <td class="tg-0lax">
+      Gilad et al, <a href="https://dl.acm.org/doi/10.1145/3132747.3132757">Algorand: Scaling Byzantine Agreements for Cryptocurrencies</a>, SOSP'17.
+    </td>
     <td class="tg-0lax"></td>
   </tr>
-  <tr class="lecture">
+  <!-- tr class="lecture">
     <td class="tg-baqh">25</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Blockchain Consensus Survey (Xiao et al, Arxiv)</td>
     <td class="tg-0lax"></td>
-  </tr>
+  </tr-->
 </tbody>
 </table>

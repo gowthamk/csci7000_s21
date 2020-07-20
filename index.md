@@ -28,18 +28,17 @@ Distributed Program Verification.
 
 As conveyed by the title, our emphasis in this course will be on the
 specification and verification of distributed systems and
-applications. Formal verification often invokes unfortunate connations
-of impracticality. We shall try to avoid this pitfall in this course
-by prioritizing the study of theories, techniques, and systems with
+applications. Formal verification often invokes unfortunate connotations
+of impracticality. We shall try to avoid this pitfall by prioritizing the study of theories, techniques, and systems with
 strong practical implications. The course is **research-oriented**
-meaning that it will be dominated by student-led discussions on
+meaning that there will be student-led discussions on
 research papers and industry tech reports. It will be **hands-on**
 meaning that there will be programming assignments (most likely in TLA+
 and PlusCal) and a course project (to be proposed independently by
 each student). To set a common ground for subsequent research
 discussions, I will review the fundamental concepts of Distributed
 Systems and Program Verification in the first few lectures. The
-schedule can be found here.
+schedule can be found [here](../schedule).
 
 ## Essential Details
 
