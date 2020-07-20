@@ -15,7 +15,7 @@ layout: default
 Distributed systems are the workhorses of modern day computing.
 Applications ranging from home automation systems to e-commerce,
 payment gateways, and cryptocurrencies all rely on distributed systems
-to meet their computational needs and scale to millions of users
+to meet their computational needs, and scale to millions of users
 across the planet. Unfortunately though, the ubiquity of distributed
 computing hasn't resulted in a proportional decrease in the complexity
 of distributed programming; building reliable and scalable distributed
