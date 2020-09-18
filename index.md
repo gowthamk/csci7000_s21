@@ -38,7 +38,7 @@ and PlusCal) and a course project (to be proposed independently by
 each student). To set a common ground for subsequent research
 discussions, I will review the fundamental concepts of Distributed
 Systems and Program Verification in the first few lectures. The
-schedule can be found [here](../schedule).
+schedule can be found [here](schedule).
 
 ## Essential Details
 
