@@ -43,8 +43,8 @@ schedule can be found [here](schedule).
 ## Essential Details
 
 * **Instructor:** [Gowtham Kaki](http://gowthamk.github.io).
-* **Where:** TBD
-* **When:** TBD
+* **Where:** Online
+* **When:** T,Th 11:10 AM - 12:25 PM
 * **Office Hours**: By appointment
 
 ## Grading

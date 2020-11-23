@@ -1,7 +1,7 @@
 # Site settings
 title: CS Grad Seminar Fall 2020
 subtitle: Distributed Systems Verification
-baseurl: "/csci7000_f20" # the subpath of your site, e.g. /blog/
+baseurl: "/csci7000_s21" # the subpath of your site, e.g. /blog/
 url: "http://gowthamk.github.io" # the base hostname & protocol for your site
 syllabus: ""
 githubdir: "gowthamk/csci7000_f20"
