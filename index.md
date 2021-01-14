@@ -43,9 +43,10 @@ schedule can be found [here](schedule).
 ## Essential Details
 
 * **Instructor:** [Gowtham Kaki](http://gowthamk.github.io).
-* **Where:** Online
+* **Where:** [Zoom](https://cuboulder.zoom.us/j/93436907235) (Email me
+  for the passcode)
 * **When:** T,Th 11:10 AM - 12:25 PM
-* **Office Hours**: By appointment
+* **Office Hours**: On [Piazza](https://piazza.com/class/kjw3pah6lmo1hv) or by appointment.
 
 ## Grading
 
