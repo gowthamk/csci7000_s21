@@ -18,8 +18,8 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
 <tbody>
   <tr class="lecture">
     <td class="tg-baqh">1</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Introduction and Logistics</td>
+    <td class="tg-0lax">01/14/2021</td>
+    <td class="tg-0lax"><a href="../lectures/Lec1.pdf">Introduction and Logistics</a></td>
     <td class="tg-0lax">Google's <a href="../docs/google-intro.pdf">Introduction to Distributed Systems Design</a>. <br>
                         Newcombe et al, <a href="http://lamport.azurewebsites.net/tla/formal-methods-amazon.pdf">Use of Formal Methods at AWS</a>. <br>
                         Leesatapornwongsa et al, <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-leesatapornwongsa.pdf">SAMC: Semantic-Aware

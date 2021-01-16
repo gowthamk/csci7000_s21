@@ -50,19 +50,12 @@ schedule can be found [here](schedule).
 
 ## Grading
 
-<!-- | Item         | Due      | Weightage (%) |
-|--------------|----------|--------------:|
-| Assignment 1 | 19/08/19 | 5.0           |
-| Assignment 2 | 03/09/19 | 5.0           |
-| Quiz 1       | 04/09/19 | 15.0          |
-| Assignment 3 | 30/09/19 | 5.0           |
-| Assignment 4 | 14/10/19 | 5.0           |
-| Quiz 2       | 16/10/19 | 15.0          |
-| Assignment 5 | 30/10/19 | 5.0           |
-| Assignment 6 | 11/11/19 | 5.0           |
-| End Sem      | 19/11/19 | 40.0          | -->
-
-TBD
+| Item                                   | Due      | Weightage (%) |
+|----------------------------------------|----------|--------------:|
+| Programming Assignment ( TLA+/PlusCal) | --       |   25          |
+| Research paper presentations           | --       |   30          |
+| Project based on a research paper      | --       |   30          |
+| Contributing to paper discussions      | --       |   30          |
 
 ## Acknowledgements
 
