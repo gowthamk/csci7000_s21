@@ -32,10 +32,10 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
   </tr>
   <tr class="lecture">
     <td class="tg-baqh">2</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Asynchronous Model of a Distributed System <br>
+    <td class="tg-0lax">1/19/2021</td>
+    <td class="tg-0lax"><a href="../lectures/Lec2.pdf">Asynchronous Model of a Distributed System <br>
                         Failure Modes<br>
-                        Time - Ordering of events, Vector Clocks
+                        Time - Ordering of events</a>
     </td>
     <td class="tg-0lax">Lamport, <a href="http://www.cs.cornell.edu/courses/cs614/2004sp/papers/Lam78.pdf">Time, Clocks, and the Ordering of Events in a Distributed System</a>, CACM, 1978</td>
   </tr>
