@@ -43,7 +43,7 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
   <tr class="lecture">
     <td class="tg-baqh">3</td>
     <td class="tg-0lax">1/21/2021</td>
-    <td class="tg-0lax"> <a href="../lectues/Lec3.pdf">Happens-before,
+    <td class="tg-0lax"> <a href="../lectures/Lec3.pdf">Happens-before,
                           Lamport timestamps, Vector clocks</a>
                         [<a href="https://youtu.be/awdMjNTD-i4">Video</a>]
     </td>
