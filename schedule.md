@@ -36,11 +36,23 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
     <td class="tg-0lax"><a href="../lectures/Lec2.pdf">Asynchronous Model of a Distributed System <br>
                         Failure Modes<br>
                         Time - Ordering of events</a>
+                        [<a href="https://www.youtube.com/watch?v=iJmisIwH-fs">Video</a>]
     </td>
     <td class="tg-0lax">Lamport, <a href="http://www.cs.cornell.edu/courses/cs614/2004sp/papers/Lam78.pdf">Time, Clocks, and the Ordering of Events in a Distributed System</a>, CACM, 1978</td>
   </tr>
   <tr class="lecture">
     <td class="tg-baqh">3</td>
+    <td class="tg-0lax">1/21/2021</td>
+    <td class="tg-0lax"> <a href="../lectues/Lec3.pdf">Happens-before,
+                          Lamport timestamps, Vector clocks</a>
+                        [<a href="https://youtu.be/awdMjNTD-i4">Video</a>]
+    </td>
+    <td class="tg-0lax">
+      Lamport, <a href="http://www.cs.cornell.edu/courses/cs614/2004sp/papers/Lam78.pdf">Time, Clocks, and the Ordering of Events in a Distributed System</a>, CACM, 1978
+    </td>
+  </tr>
+  <tr class="lecture">
+    <td class="tg-baqh">4</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"> Coordinated Attack (Two Generals) Problem<br>
                          FLP Impossibility<br>
