@@ -53,13 +53,21 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
   </tr>
   <tr class="lecture">
     <td class="tg-baqh">4</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"> Coordinated Attack (Two Generals) Problem<br>
-                         FLP Impossibility<br>
-                         CAP & PACELC</td>
+    <td class="tg-0lax">1/26/2021</td>
+    <td class="tg-0lax"> <a href="../lectures/Lec4.pdf">FLP Impossibility</a>
+                        [<a href="https://youtu.be/blyeB4e2e2A">Video</a>]
+    </td>
     <td class="tg-0lax">
       Fischer et al, <a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>, JACM, 1985. <br>
-      Chandra et al, <a href="https://cs.nyu.edu/courses/fall18/CSCI-GA.3033-002/papers/cht.pdf">The Weakest Failure Detector for Solving Consensus</a>, JACM, 1996 <br>
+    </td>
+  </tr>
+  <tr class="lecture">
+    <td class="tg-baqh">5</td>
+    <td class="tg-0lax">1/28/2021</td>
+    <td class="tg-0lax"> <a href="../lectures/Lec5.pdf">FLP Impossibility (contd.), CAP, PACELC</a><br />
+                        [<a href="https://youtu.be/dq5JwMMih-8">Video</a>]
+    </td>
+    <td class="tg-0lax">
       Lynch et al, <a href="https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf">Brewer's Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services</a>, ACM SIGACT News, 2002. <br>
       Abadi, <a href="http://www.cs.umd.edu/~abadi/papers/abadi-pacelc.pdf">Consistency Tradeoffs in Modern Distributed Database System Design: CAP is Only Part of the Story</a>, IEEE Computer, 2012.
     </td>
@@ -68,26 +76,32 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
     <td class="tg-baqh" colspan="5">Review of Distributed Algorithms</td>
   </tr>
   <tr class="lecture">
-    <td class="tg-baqh">4</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Two-Phase Commit (2PC)<br>Introduction to TLA+ &amp; PlusCal</td>
+    <td class="tg-baqh">6</td>
+    <td class="tg-0lax">2/2/2021</td>
+    <td class="tg-0lax"><a href="../lectures/Lec6.pdf">Two-Phase Commit (2PC), Introduction to TLA+ &amp; PlusCal</a>
+                        [<a href="https://youtu.be/00HxGtWaYhM">Video</a>]
+    </td>
     <td class="tg-0lax">
+      Lamport, <a href="https://lamport.azurewebsites.net/video/consensus-on-transaction-commit.pdf">Consensus on Transaction Commit</a>, ACM
+      Transactions on Databases.<br>
       Hillel Wayne's <a href="https://learntla.com/introduction/">TLA+ & PlusCal Tutorials</a>. <br>
+    </td>
+  </tr>
+  <tr class="lecture">
+    <td class="tg-baqh">7</td>
+    <td class="tg-0lax">2/4/2021</td>
+    <td class="tg-0lax"><a href="../lectures/Lec7.pdf">2PC in TLA+ &amp; PlusCal</a>
+                        [<a href="https://youtu.be/B2vzCg9kiFk">Video</a>]
+    </td>
+    <td class="tg-0lax">
+      Lamport, <a href="https://lamport.azurewebsites.net/video/consensus-on-transaction-commit.pdf">Consensus on Transaction Commit</a>, ACM
+      Transactions on Databases.<br>
       Marc Brooker's <a href="https://brooker.co.za/blog/2013/01/20/two-phase.html">Exploring TLA+ with two-phase commit</a>. <br>
       Murat Demirbas's <a href="http://muratbuffalo.blogspot.com/2017/12/tlapluscal-modeling-of-2-phase-commit.html">TLA+/Pluscal modeling of 2-phase commit transactions</a>.
     </td>
   </tr>
-  <tr>
-    <td class="tg-baqh">5</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Introduction to TLA+ &amp; PlusCal (contd.)
-      <br />Liveness and Safety Properties</td>
-    <td class="tg-0lax">
-      Merz, <a href="https://hal.inria.fr/hal-02387780/file/lamport-book-only-formal.pdf">Formal Specification and Verification</a>, Concurrency: the Works of Leslie Lamport, 2019.
-    </td>
-  </tr>
   <tr class="lecture">
-    <td class="tg-baqh">6</td>
+    <td class="tg-baqh">8</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Paxos</td>
     <td class="tg-0lax">
@@ -96,7 +110,7 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
     </td>
   </tr>
   <tr class="lecture">
-    <td class="tg-baqh">7</td>
+    <td class="tg-baqh">9</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Paxos (Contd.)</td>
     <td class="tg-0lax">
@@ -105,7 +119,7 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
     </td>
   </tr>
   <tr class="lecture">
-    <td class="tg-baqh">8</td>
+    <td class="tg-baqh">10</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Byzantine Generals Problem <br>
                         BFT Consensus</td>
@@ -119,7 +133,7 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
     <td class="tg-baqh" colspan="5">Verification Techniques</td>
   </tr>
   <tr class="lecture">
-    <td class="tg-baqh">9</td>
+    <td class="tg-baqh">11</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Hoare Logic<br>Rely-Guarantee</td>
     <td class="tg-0lax">
@@ -128,7 +142,7 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
     </td>
   </tr>
   <tr class="lecture">
-    <td class="tg-baqh">10</td>
+    <td class="tg-baqh">12</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Refinement Proof Technique<br>Proof automation</td>
     <td class="tg-0lax">
