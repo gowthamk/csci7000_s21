@@ -113,7 +113,7 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
   </tr>
   <tr class="lecture">
     <td class="tg-baqh">9</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">2/11/2021</td>
     <td class="tg-0lax"> <a href="../lectures/Lec9.pdf">SC Replication, CRDTs, CALM</a>
                         [<a href="https://youtu.be/2TzHflsRlwQ">Video</a>]
     </td>
