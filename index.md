@@ -55,7 +55,7 @@ schedule can be found [here](schedule).
 | Programming Assignment ( TLA+/PlusCal) | --       |   25          |
 | Research paper presentations           | --       |   30          |
 | Project based on a research paper      | --       |   30          |
-| Contributing to paper discussions      | --       |   30          |
+| Contributing to paper discussions      | --       |   15          |
 
 ## Acknowledgements
 
