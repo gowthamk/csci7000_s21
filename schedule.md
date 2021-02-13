@@ -102,8 +102,10 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
   </tr>
   <tr class="lecture">
     <td class="tg-baqh">8</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Paxos</td>
+    <td class="tg-0lax">2/9/2021</td>
+    <td class="tg-0lax"><a href="../lectures/Lec8.pdf">Paxos</a>
+                        [<a href="https://youtu.be/hyRfja2InDg">Video</a>]
+    </td>
     <td class="tg-0lax">
       Lamport, <a href="https://lamport.azurewebsites.net/pubs/paxos-simple.pdf">Paxos Made Simple</a>, ACM SIGACT News, 2001. <br>
       Chandra et al, <a href="http://www.read.seas.harvard.edu/~kohler/class/08w-dsi/chandra07paxos.pdf">Paxos Made Live: An Engineering Perspective</a>, PODC'07. <br>
@@ -112,13 +114,15 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
   <tr class="lecture">
     <td class="tg-baqh">9</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">Paxos (Contd.)</td>
+    <td class="tg-0lax"> <a href="../lectures/Lec9.pdf">SC Replication, CRDTs, CALM</a>
+                        [<a href="https://youtu.be/2TzHflsRlwQ">Video</a>]
+    </td>
     <td class="tg-0lax">
-      Padon et al, <a href="https://cs.stanford.edu/~padon/paxos-made-epr-oopsla17.pdf">Paxos Made EPR:  Decidable Reasoning about Distributed Protocols</a>, OOPSLA'17. <br >
-      Sergey et al, <a href="https://ilyasergey.net/papers/paxos-deconstructed-esop18.pdf">Paxos Consensus, Deconstructed and Abstracted</a>, ESOP'18.
+      Shapiro et al, <a href="https://hal.inria.fr/inria-00609399v1/document">Conflict-free Replicated Data Types</a>, HAL TR. <br>
+      Hellerstein et al, <a href="https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext">Keeping CALM: When Distributed Consistency is Easy</a>, CACM Sep 2020.
     </td>
   </tr>
-  <tr class="lecture">
+  <!-- tr class="lecture">
     <td class="tg-baqh">10</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Byzantine Generals Problem <br>
@@ -128,12 +132,12 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
       Malkhi et al, <a href="https://dahliamalkhi.files.wordpress.com/2015/12/byzquorums-distcomputing1998.pdf">Byzantine Quorum Systems</a>, Distributed Computing, 1998.
       Castro et al, <a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance</a>, OSDI'99.
     </td>
-  </tr>
+  </tr -->
   <tr class="module">
     <td class="tg-baqh" colspan="5">Verification Techniques</td>
   </tr>
   <tr class="lecture">
-    <td class="tg-baqh">11</td>
+    <td class="tg-baqh">10</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Hoare Logic<br>Rely-Guarantee</td>
     <td class="tg-0lax">
@@ -142,7 +146,7 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
     </td>
   </tr>
   <tr class="lecture">
-    <td class="tg-baqh">12</td>
+    <td class="tg-baqh">11</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Refinement Proof Technique<br>Proof automation</td>
     <td class="tg-0lax">
@@ -153,7 +157,7 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
     <td class="tg-baqh" colspan="5">Paper Discussions - Distributed Systems Verification</td>
   </tr>
   <tr class="lecture">
-    <td class="tg-baqh">11</td>
+    <td class="tg-baqh">12</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">
       Hawblitzel et al, <a href="https://www.andrew.cmu.edu/user/bparno/papers/ironfleet.pdf">IronFleet: Proving Practical Distributed Systems Correct</a>, SOSP'15.
@@ -161,7 +165,7 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
     <td class="tg-0lax"></td>
   </tr>
   <tr class="lecture">
-    <td class="tg-baqh">12</td>
+    <td class="tg-baqh">13</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">
       Wilcox et al, <a href="https://homes.cs.washington.edu/~ztatlock/pubs/verdi-wilcox-pldi15.pdf">Verdi: A Framework for Implementing and Formally Verifying Distributed Systems</a>, PLDI'15.
@@ -169,7 +173,7 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
     <td class="tg-0lax"></td>
   </tr>
   <tr class="lecture">
-    <td class="tg-baqh">13</td>
+    <td class="tg-baqh">14</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">
       Padon et al, <a href="https://cs.stanford.edu/~padon/ivy.pdf">Ivy: Safety Verification by Interactive Generalization</a>, PLDI'16<br>
@@ -184,14 +188,14 @@ Below is a tentative schedule. Lectures 1-10 and 17 will be taught by me (Gowtha
     </td>
     <td class="tg-0lax"></td>
   </tr>
-  <tr class="lecture">
+  <!-- tr class="lecture">
     <td class="tg-baqh">14</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">
       Padon et al, <a href="https://dl.acm.org/doi/10.1145/3158114">Reducing Liveness to Safety in First-Order Logic</a>, POPL'18.
     </td>
     <td class="tg-0lax"></td>
-  </tr>
+  </tr -->
   <tr class="lecture">
     <td class="tg-baqh">16</td>
     <td class="tg-0lax"></td>
