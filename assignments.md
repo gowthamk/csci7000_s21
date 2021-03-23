@@ -11,6 +11,8 @@ specifications distributed protocols and to modelcheck them
 effectively. The assignment has two parts described below. All the
 files linked below can be found
 [here](https://github.com/gowthamk/csci7000_s21/tree/gh-pages/assignments).
+Submission instructions can be found at the end of this page. **Due date
+is Sunday 4/11/2021**.
 
 Part 1: Define Agreement as an invariant and fix the Paxos spec (10 pts)
 ======
