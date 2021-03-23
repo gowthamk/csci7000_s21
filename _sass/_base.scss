@@ -265,3 +265,11 @@ tr.module {
 table#schedule {
   font-size:13px;
 }
+
+/**
+ * For github embeds
+ */
+.gist-it-gist {
+  max-height: 500px;
+  overflow: scroll;
+}
