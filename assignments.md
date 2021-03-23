@@ -12,7 +12,7 @@ effectively. The assignment has two parts described below. All the
 files linked below can be found
 [here](https://github.com/gowthamk/csci7000_s21/tree/gh-pages/assignments).
 Submission instructions can be found at the end of this page. **Due date
-is Sunday 4/11/2021**.
+is Tuesday 4/6/2021**.
 
 Part 1: Define Agreement as an invariant and fix the Paxos spec (10 pts)
 ======
@@ -154,7 +154,7 @@ Your submission must be a tar ball consisting of seven files:
 2. Paxys.tla, MCPaxys.tla, and MCPaxys.cfg, and
 3. A README.md file to help me understand your solution.
 
-Please e-mail your submissions to me before 11th April (Sunday). Good
+Please e-mail your submissions to me before 6th April (Tuesday). Good
 luck!
 
 
