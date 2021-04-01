@@ -95,9 +95,9 @@ let fuzzer explore various system-level events such as message losses,
 network partitions, node crashes etc. There are many ways of doing
 this, but only some would lead to effective fuzzing; talk to me to
 understand why. Depending on the complexity of the fuzzing problem,
-you may chose to focus either on distributed application with an aim
+you may chose to focus either on distributed applications with an aim
 of finding consistency anomalies or on distributed protocols with an
-intention of finding safety or liveness violations.
+intention of finding safety and liveness violations.
 
 
 ## Probabilistic Error Bounds on Distributed Applications
